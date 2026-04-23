@@ -1,12 +1,20 @@
 # MarKIntel
 
 A minimal market intelligence app built with Streamlit, Google News RSS, and local Ollama.
+(NLP-based market intelligence app using Streamlit + Ollama)
 
 ## What it does
 - Takes a company name/any thing you want to research about.
 - Fetches recent headlines
 - Sends them to Ollama
 - Shows sentiment, keywords, risks, opportunities, and a short AI summary
+
+##Topics
+nlp
+streamlit
+ollama
+machine-learning
+ai
 
 ## Requirements
 - Python 3.10+
