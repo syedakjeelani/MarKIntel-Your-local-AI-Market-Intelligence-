@@ -1,0 +1,6 @@
+streamlit
+requests
+transformers
+torch
+openai
+newsapi-python
